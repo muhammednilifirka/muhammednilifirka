@@ -9,9 +9,9 @@ I'm a passionate **junior developer** living in **Istanbul, Turkey**. I build th
 - **Database :** MSSQL, SqLite
 - **Others :** Git, GitHub, GitLab, VS, VSCode, Ubuntu, Windows
 
----
+<!------->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muhammednilifirka&show_icons=true)
+<!--![github stats](https://github-readme-stats.vercel.app/api?username=muhammednilifirka&show_icons=true)-->
 
 ---
 
