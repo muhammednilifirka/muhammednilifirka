@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a passionate **junior developer** living in **Istanbul, Turkey**. I build things on my GitHub profile (here). I love **C#**.
+I'm a **junior developer** living in **Istanbul, Turkey**
 
 ## About ℹ
 
